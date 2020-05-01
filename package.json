@@ -1,0 +1,17 @@
+{
+  "name": "javstrap",
+  "version": "1.0.0",
+  "description": "Not just another css grid framework",
+  "main": "grid.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "css",
+    "framework",
+    "css",
+    "grid"
+  ],
+  "author": "Minimal ar <info@minimal-studio.com.ar> (minimal.com.ar)",
+  "license": "ISC"
+}
